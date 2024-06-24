@@ -32,4 +32,4 @@ Welcome to the repository showcasing my data science internship projects complet
 **CONCLUSION:**
 The Codsoft Data Science Internship has been an enriching experience, providing me with the skills and knowledge to tackle real-world data challenges. I am grateful for the opportunity to contribute to meaningful projects and look forward to applying these skills in future endeavors.
 
-Connect with me on [LinkedIn](www.linkedin.com/in/bandanaprakash) and explore my GitHub repositories for a detailed look into each project. Thank you, [Bharat Intern](www.linkedin.com/company/bharat-intern), for this incredible learning journey!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/bandanaprakash) and explore my GitHub repositories for a detailed look into each project. Thank you, [Bharat Intern](https://bharatintern.live/), for this incredible learning journey!
