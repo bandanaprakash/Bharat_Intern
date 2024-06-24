@@ -13,7 +13,7 @@ Welcome to the repository showcasing my data science internship projects complet
 
 ## Task 2: Cat and Dog Image Classifier
 
-### Task : We are developing image classification model to distinguish between images of cats and dogs.In this model I've taken a sample dataset from kaggle that contains different images of cats and dogs in two separate folders.
+**Task :** We are developing image classification model to distinguish between images of cats and dogs.In this model I've taken a sample dataset from kaggle that contains different images of cats and dogs in two separate folders.
 
 ### Libraries used :
 * Pandas – This library is used to load 2D array format and DataFrames.
@@ -27,3 +27,9 @@ Welcome to the repository showcasing my data science internship projects complet
 * OpenCV – This OpenCV library is an open-source library mainly focused on image processing and handling.
 
 * Tensorflow – This is an open-source library that is used to achieve complex functionalities with single lines of code.
+
+
+**CONCLUSION:**
+The Codsoft Data Science Internship has been an enriching experience, providing me with the skills and knowledge to tackle real-world data challenges. I am grateful for the opportunity to contribute to meaningful projects and look forward to applying these skills in future endeavors.
+
+Connect with me on [LinkedIn](www.linkedin.com/in/bandanaprakash) and explore my GitHub repositories for a detailed look into each project. Thank you, [Bharat Intern](www.linkedin.com/company/bharat-intern), for this incredible learning journey!
